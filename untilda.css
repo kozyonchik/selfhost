@@ -18,6 +18,7 @@
 .customcontrol .tooltiper {border-right: 0;}
 .customcontrol .tooltiper.on .cc_noter {display: block;}
 .customcontrol.special {}
+.customcontrol.special .preview {display: none;}
 .hypeblock:hover .customcontrol {opacity: 1;}
 
 .hypeblock.view .customcontrol .cc_but:not(.preview)  {display: none;}
