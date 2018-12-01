@@ -345,7 +345,9 @@ body * {word-break: break-word;}
 .t794__tooltip-menu {    animation-duration: 0.1s !important;}
 .t228.t228__positionfixed {box-shadow: 0 0px 6px rgba(0,0,0,0.08);}
 .t015__uptitle {padding-top: 0px;}
-
+.t702__form-bottom-text {font-size: 11px;}
+.t-form__successbox {color: #fff;}
+.t-form__errorbox-text {color: #fff;}
 
 
 
