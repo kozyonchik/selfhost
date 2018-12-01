@@ -791,7 +791,7 @@ $(window).keypress(function(e) {
         //console.log('dasdasd');
         $.each( achiver2, function( key, value ) {
 
-            var $this = $(value[0])
+            var $this = $(value[0]);
             //console.log(value[0]);
             (!$this.hasClass('helpblock')?$this.addClass('hypeblock'):'');
             $this.prepend('<div class="customcontrol special"><div class="cc_but note tooltiper"><div class="th_out"><div class="th_in"><i class="fas fa-sticky-note"></i></div></div><div class="cc_noter">Название блока: '+value[1]+'<br><ol><li></li></ol></div></div><div class="cc_but preview"><div class="th_out"><div class="th_in"><i class="fas fa-eye"></i></div></div></div></div>')
