@@ -14,20 +14,15 @@ var $jscomp={scope:{},findInternal:function(a,b,c){a instanceof String&&(a=Strin
 Заголовки font-size:52px;line-height:56px;
 
 
-10 картинка может встать
 никогда не использовать светлый первый экран
 картинку можно выравнивать по верхнему краю
-десяток картинок подставлять в первый экран
 не использовать длинный призыв на кнопке
-обязательно анимируй кнопку
-все блоки первого экрана темные чтобы на них белым цветом было хорошо все видно
 включить фонтавесоме
-на мобиле нужно переделывать блоки картинка первая потом идет текст
-первый экран на мобиле самый важный
-на мобиле мелкий текст выравнивать по левому краю
-не менять шрифты
-90px отступы
 где искать иконки
+
+
+
+
 
 
 
@@ -59,6 +54,19 @@ if($('.t391__btn').length){
         $(this).css({'opacity':1});
         var id = $(this).find('a').attr('href')
                 
+        $(this).find('a').remove()
+        if(id.indexOf("#rec") >= 0){
+            $(id).addClass('just_as_added_button')
+            $(id).find('a').parentsUntil(id).addClass('uncss_us_plz')
+            $(this).append($(id))
+        }
+        //$(id).remove();/**/
+    })
+}
+//messengers
+if($('.t390__btn-wrapper').length){
+    $('.t390__btn-wrapper').each(function(){
+        var id = $(this).find('a').attr('href')
         $(this).find('a').remove()
         if(id.indexOf("#rec") >= 0){
             $(id).addClass('just_as_added_button')
