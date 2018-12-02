@@ -1,4 +1,4 @@
-/*Bots
+/*Bots*/
 .custom_bot_wraper {border-radius: 5px;overflow: hidden; width: 300px;display: table;font-family: Montserrat, sans-serif;width: 100%;table-layout: fixed;}
 .custom_bot_wraper i {color: #fff;font-size: 22px;}
 .custom_bot_wraper span {font-size: 10px;text-transform: uppercase;color: #fff;display: block;padding-top: 5px;}
@@ -11,7 +11,7 @@
 .t390__descr strong {animation: 0.5s cold1 ease infinite;background: #fff;padding: 0 6px;border-radius: 50px;color: #111; font-weight: 500;box-shadow: 0 2px 15px rgba(0,0,0,0.25);font-size: 14px;line-height: 20px;display: inline-block;}
 @keyframes cold1 {0% {background-color:#fff;color:#111 !important;box-shadow: 0 2px 15px rgba(0,0,0,0.25);}49% {background-color:#fff;color:#111 !important;box-shadow: 0 2px 15px rgba(0,0,0,0.25);}50% {background-color:#ddd;color:#111 !important;box-shadow: none;}100% {background-color:#ddd;color:#111 !important;box-shadow: none;}}
 
-
+/*Quiz*/
 .num-child-2 .t-img-select__control {width: 50%;margin: 0;padding: 0 5px;}
 .num-child-3 .t-img-select__control {width: 33.333333%;margin: 0;padding: 0 5px;}
 .t862__wrapper .t-img-select__text.t-text.t-text_xs {text-align: center;}
@@ -46,4 +46,3 @@
 .t862__wrapper .cust_descr_holder ul {list-style-type: none;padding-left: 25px;}
 .t862__wrapper .cust_descr_holder li {list-style-type: none;}
 .t862__wrapper .cust_descr_holder li:before {content: "+";position: absolute; margin-left: -25px;background: #e2e2e2;width: 15px;margin-top: 1px;height: 15px;text-align: center;border-radius: 20px;color: #797979;font-weight: bold;line-height: 16px;}
-*/
