@@ -1,0 +1,49 @@
+/*Bots
+.custom_bot_wraper {border-radius: 5px;overflow: hidden; width: 300px;display: table;font-family: Montserrat, sans-serif;width: 100%;table-layout: fixed;}
+.custom_bot_wraper i {color: #fff;font-size: 22px;}
+.custom_bot_wraper span {font-size: 10px;text-transform: uppercase;color: #fff;display: block;padding-top: 5px;}
+.custom_bot_wraper a {display: table-cell;color: #fff;height: 70px;vertical-align: middle;text-align: center;}
+.custom_bot_wraper .b_fb {background: #4064ac;}.custom_bot_wraper .b_fb:hover {background: #34518c;}
+.custom_bot_wraper .b_vk {background: #4e7db2;}.custom_bot_wraper .b_vk:hover {background: #3f6590;}
+.custom_bot_wraper .b_tg {background: #34a9db;}.custom_bot_wraper .b_tg:hover {background: #2a89b2;}
+.custom_bot_wraper .b_vb {background: #784f99;}.custom_bot_wraper .b_vb:hover {background: #61407c;}
+.custom_bot_wraper .b_wh {background: #5bc952;}.custom_bot_wraper .b_wh:hover {background: #449e3c;}
+.t390__descr strong {animation: 0.5s cold1 ease infinite;background: #fff;padding: 0 6px;border-radius: 50px;color: #111; font-weight: 500;box-shadow: 0 2px 15px rgba(0,0,0,0.25);font-size: 14px;line-height: 20px;display: inline-block;}
+@keyframes cold1 {0% {background-color:#fff;color:#111 !important;box-shadow: 0 2px 15px rgba(0,0,0,0.25);}49% {background-color:#fff;color:#111 !important;box-shadow: 0 2px 15px rgba(0,0,0,0.25);}50% {background-color:#ddd;color:#111 !important;box-shadow: none;}100% {background-color:#ddd;color:#111 !important;box-shadow: none;}}
+
+
+.num-child-2 .t-img-select__control {width: 50%;margin: 0;padding: 0 5px;}
+.num-child-3 .t-img-select__control {width: 33.333333%;margin: 0;padding: 0 5px;}
+.t862__wrapper .t-img-select__text.t-text.t-text_xs {text-align: center;}
+.t862__progress {width: 100% !important;transition: all 0.5s !important;-webkit-transition: all 0.5s !important;}
+.t862__quiz-description-counter {opacity: 0;}
+.custom_quiz_num {    position: absolute;margin-left: -25px;top: -10px; z-index: 999; width: 25px;height: 25px;border-radius: 100%;background: #fff;font-family: Montserrat, sans-serif;border: 1px solid rgba(0,0,0,0.1);padding: 3px 0px;color: #8e8e8e;font-size: 13px; font-weight: bold;text-align: center;box-sizing: border-box;}
+.t862__quiz-description-wrapper {overflow: visible;}
+.t862__quiz-description .st61 {stroke: #a0a0a0;}
+.t862__progressbar .custom_quiz_num.active {color: #fff;border-color: transparent;}
+.t862__progressbar .custom_quiz_num.inactive {color: rgba(255,255,255,0.5);border-color: transparent;}
+.t862__progressbar.finished .custom_quiz_num{color: rgba(255,255,255,0.5);border-color: transparent;}
+.t862__wrapper:not(.marked) .t862__btn-wrapper {display: none;}
+.t862__wrapper:not(.marked) {padding-bottom: 0;min-height: auto !important;}
+.custom_quiz_present svg {    width: 20px;opacity: 0.3;}
+.custom_quiz_present {position: absolute;right: 20px;width: 40px;height: 40px;background: #fff;border: 1px solid rgba(0,0,0,0.2);border-radius: 100%; padding: 8px 0;top: -17px;box-sizing: border-box;text-align: center;}
+.t862__wrapper .t-input-title {padding-bottom: 0 !important;}
+.t862__wrapper .t-input-subtitle {padding-top: 0 !important;padding-bottom: 20px !important;}
+.t862__progress.finished {max-width: 100% !important;}
+.custom_quiz_present.active {border-color: transparent;}
+.custom_quiz_present.active svg {opacity: 1;}
+.custom_quiz_present.active svg * {fill:#fff;}
+.t862__capture-form input {border: 1px solid rgba(0,0,0,0.2) !important; border-radius: 5px !important;padding: 26px 20px 10px 15px !important;}
+.t862__capture-form .t-input__vis-ph {left: 15px!important;}
+.t862__capture-form .t-checkbox__control a {color: #111 !important; text-decoration: underline !important;}
+.t862__capture-form .t-checkbox__control {    font-size: 12px;}
+.t862__wrapper:not(.finished) .quiz_bonus {display: none;}
+.t862__wrapper .quiz_bonus {width: 50%;float: left;}
+.t862__wrapper.doubleColumn .t862__capture-form {width: 50%;float: left;padding-left: 30px;box-sizing: border-box;}
+.t862__wrapper.doubleColumn .quiz_bonus img {width: 100%;vertical-align: middle;}
+.t862__wrapper .cust_descr_holder {font-family: Montserrat, sans-serif;font-size: 14px; padding-bottom: 15px;opacity: .7;}
+.t862__wrapper .t-input-group_ph:not(.activate) {display: none !important;}
+.t862__wrapper .cust_descr_holder ul {list-style-type: none;padding-left: 25px;}
+.t862__wrapper .cust_descr_holder li {list-style-type: none;}
+.t862__wrapper .cust_descr_holder li:before {content: "+";position: absolute; margin-left: -25px;background: #e2e2e2;width: 15px;margin-top: 1px;height: 15px;text-align: center;border-radius: 20px;color: #797979;font-weight: bold;line-height: 16px;}
+*/
