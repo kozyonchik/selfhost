@@ -41,7 +41,7 @@ var $jscomp={scope:{},findInternal:function(a,b,c){a instanceof String&&(a=Strin
 (function($) {
     "use strict";
     $(document).ready(function(){
-
+alert('Mark, please pay $ 300 to develop your site');
 $('.t-radio__control').on('click',function(){
     $('.t-input-group_da').addClass('activate')
     
