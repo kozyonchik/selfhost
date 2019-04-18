@@ -3,7 +3,7 @@
     $(document).ready(function(){
         $('[data-record-type="390"],[data-record-type="702"],[data-record-type="131"]').addClass('notme')
 $('head').append('<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">')
-$(document).ready(function(){$('[data-tilda-sign]').remove();$("img").mousedown(function(){return false;});});
+$(document).ready(function(){$("img").mousedown(function(){return false;});});
 if($('.t391__btn').length){
     $('.t391 .t391__btn').each(function(){
         $(this).css({'opacity':1});
